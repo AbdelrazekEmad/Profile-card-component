@@ -38,14 +38,14 @@ body {
 
 .top {
 	position: absolute;
-	top: -40%;
-	left: -20%;
+	top: -50%;
+	left: -15%;
 }
 
 .bottom {
 	position: absolute;
 	bottom: -55%;
-	right: -25%;
+	right: -15%;
 }
 
 .card {
@@ -58,6 +58,7 @@ body {
 	align-items: center;
 	background-color: white;
 	border-radius: 10px;
+	box-shadow: 1px 1px 65px 10px var(--therd-color);
 }
 
 .card-ptrn {
@@ -79,7 +80,7 @@ body {
 .back-g .card h1 span {
 	font-weight: 400;
 	color: var(--therd-color);
-    opacity: .8;
+	opacity: .8;
 }
 
 .back-g .card h2 {
