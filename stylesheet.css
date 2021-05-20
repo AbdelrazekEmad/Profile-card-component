@@ -99,7 +99,7 @@ hr {
 	background: var(--four-color);
 	height: 1px;
 	width: 100%;
-	opacity: .2;
+	opacity: .1;
 }
 
 .child {
